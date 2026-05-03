@@ -47,9 +47,6 @@ FruitGuard-System/
 │   ├── best_seg.pt           # Segmentation Model
 │   └── fruit_classifier.pth  # Classification Model
 │
-├── run_backend.bat           # Backend launcher
-├── run_mobile.bat            # Mobile environment launcher
-├── run_pyqt.bat              # Desktop launcher
 └── README.md                 # Project Documentation
 ```
 
